@@ -1,0 +1,16 @@
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\bin\Debug\net5.0\KaraterDegistirme.exe
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\bin\Debug\net5.0\KaraterDegistirme.deps.json
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\bin\Debug\net5.0\KaraterDegistirme.runtimeconfig.json
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\bin\Debug\net5.0\KaraterDegistirme.runtimeconfig.dev.json
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\bin\Debug\net5.0\KaraterDegistirme.dll
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\bin\Debug\net5.0\ref\KaraterDegistirme.dll
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\bin\Debug\net5.0\KaraterDegistirme.pdb
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.csproj.AssemblyReference.cache
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.AssemblyInfoInputs.cache
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.AssemblyInfo.cs
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.dll
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\ref\KaraterDegistirme.dll
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.pdb
+C:\Users\Furkan Cengiz\Desktop\KaraterDegistirme\obj\Debug\net5.0\KaraterDegistirme.genruntimeconfig.cache

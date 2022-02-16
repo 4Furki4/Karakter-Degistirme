@@ -6,7 +6,12 @@ namespace KaraterDegistirme
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Konsol_Islemleri konsol = new Konsol_Islemleri();
+            Karakter_Islemleri karakter= new Karakter_Islemleri();
+            konsol.IlkMesaj();
+            konsol.KelimeleriEkranaYazdır(karakter.YerleriDegistir(konsol.KelimeleriAlma()));
+            
+            
         }
     }
 }
