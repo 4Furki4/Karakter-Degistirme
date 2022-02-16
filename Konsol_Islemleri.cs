@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 namespace KaraterDegistirme
 {
     public class Konsol_Islemleri
@@ -11,6 +12,13 @@ namespace KaraterDegistirme
         {
             string input = Console.ReadLine();
             return input.Split(" ");
+        }
+        public void KelimeleriEkranaYazdır(List<string> list)
+        {
+            foreach (var item in list)
+            {
+                System.Console.WriteLine(item+" ");
+            }
         }
     }
 }
