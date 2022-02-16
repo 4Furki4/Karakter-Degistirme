@@ -9,11 +9,17 @@ namespace KaraterDegistirme
             List<string> sonKelimeler= new List<string>();
             foreach (var item in arr)
             {
-                int uzunluk = item.Length;
-                string ilkKelime=arr[0]; 
-                item.Replace(arr[0],arr[uzunluk-1]);
-                item.Replace(arr[uzunluk-1],ilkKelime);
-                sonKelimeler.Add(item);
+                int counter=0;
+                char[] harfler= new char[item.Length];
+                foreach (var harf in item)
+                {
+                    harfler[counter]= harf;
+                    counter++;
+                }
+                char ilkHarf= harfler[0];
+                harfler[0]=harfler[item.Length-1];
+                harfler[item.Length-1]= ilkHarf;
+                sonKelimeler.Add(string.Join(null,harfler));
             }
             return sonKelimeler;
         }
